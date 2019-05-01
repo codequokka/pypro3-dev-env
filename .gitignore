@@ -1,6 +1,10 @@
 # Python
 .venv/
 
+# Vagrant
+*.log
+.vagrant/
+
 # Vscode
 .vscode/
 
