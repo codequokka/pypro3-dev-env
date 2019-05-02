@@ -5,6 +5,8 @@
 *.log
 .vagrant/
 
+# Ansible
+deployment/roles/
+
 # Vscode
 .vscode/
-
