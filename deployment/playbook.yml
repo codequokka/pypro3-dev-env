@@ -1,0 +1,5 @@
+- name: provisioning developemnt environment for pypro3 book
+  hosts: all
+  become: yes
+  roles:
+    - codequokka.ansible_role_pypro3
