@@ -15,11 +15,8 @@ $ brew install ansible
 
 Usage
 ------------
-- Install ansible role([codequokka.ansible_role_pypro3][2])
-```console
-$ ansible-galaxy install codequokka.ansible_role_pypro3 -p deployment/roles/
-```
 - Create vm then log in
+  - Vagrant installs ansible role([codequokka.ansible_role_pypro3][2]) then provsions
 ```console
 $ vagrant up
 $ vagrant ssh

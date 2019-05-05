@@ -1,0 +1,3 @@
+---
+- src: codequokka.ansible_role_pypro3
+  path: deployment/roles
